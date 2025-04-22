@@ -1,4 +1,4 @@
 # CSE-2102
 This is my first Git Repository
-Imtiaz Ahmmed Shuvo
+Author - Imtiaz Ahmmed Shuvo
 
